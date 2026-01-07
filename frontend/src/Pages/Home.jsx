@@ -1,11 +1,9 @@
-import React from 'react'
-
 function Home() {
   return (
-    <div className=' text-[30px] text-[red]'>
+    <div className="pt-[80px] text-[30px] text-red-500">
       Home Page
     </div>
-  )
+  );
 }
 
 export default Home;
